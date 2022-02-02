@@ -1,4 +1,4 @@
-# flutter_course
+# Flutter Course - 120 Lessons
 
 A complete course on Flutter.
 
